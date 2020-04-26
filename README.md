@@ -2,7 +2,7 @@
 |-|-|
 # BibleCorps
 
-This is a repository for Scripture source code. The source here presented represents a Christian Library. 
+The source here presented represents a Christian Library. It is intended Be the Light will eventually provide a translation interface for producing this library into many languages. 
 
 ## BTL Library
 ### Christian Core
