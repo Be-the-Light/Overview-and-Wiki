@@ -19,7 +19,7 @@ The source here presented represents a Christian Library. It is intended Be the 
 
 ### Academy
 
-|       | ___Subject___|Age |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
+|       | ___Subject___|Grade |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
 |-------|--------------|----|---------|---------|---------|---------|--------
 | __I__ | __[Infant](https://github.com/Be-the-Light/ENG-I-Infant-Academy-PSFM)__ | 0-K   |         |         |         |         |
 | __J__ | __[Junior](https://github.com/Be-the-Light/ENG-J-Junior-Academy-PSFM)__ | 1-4   |         |         |
