@@ -19,14 +19,14 @@ The source here presented represents a Christian Library. It is intended Be the 
 
 ### Academy
 
-|       |                  | 00-19   | 20-39   | 40-59   | 60-79   | 80-99
-|-------|------------------|---------|---------|---------|---------|--------
-|       | ___Subject___    |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
-| __I__ | __Infant__ 0-4   |         |         |         |         |
-| __J__ | __Junior__ K-3   |         |         |
-| __K__ | __Kids__ 4-8     |         |         |
-| __L__ | __Learner__ 9-12 |         |         | 
-| __M__ | __Master__ Teaching|       |         |         | 
+|-------|--------------|----|---------|---------|---------|---------|--------
+|       | ___Subject___|Age |_Language_|_Nature_| _STEM_  | _Law_   |_Christ_
+|-------|--------------|----|---------|---------|---------|---------|--------
+| __I__ | __[Infant](https://github.com/Be-the-Light/ENG-I-Infant-Academy-PSFM)__ | 0-K   |         |         |         |         |
+| __J__ | __[Junior](https://github.com/Be-the-Light/ENG-J-Junior-Academy-PSFM)__ | 1-4   |         |         |
+| __K__ | __[Kids](https://github.com/Be-the-Light/ENG-K-Kids-Academy-PSFM)__ |4-8     |         |         |
+| __L__ | __[Learner](https://github.com/Be-the-Light/ENG-L-Learners-Academy-PSFM)__ |9-12 |         |         | 
+| __M__ | __[Master](https://github.com/Be-the-Light/ENG-M-Master-Academy-PSFM)__ Teaching|       |         |         | 
 
 ### Institute
 
