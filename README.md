@@ -9,7 +9,7 @@ The source here presented represents a Christian Library. It is intended Be the 
 
 |Section| Title            | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 
 |-------|------------------|---------|---------|---------|---------|--------
-| __A__ | __Literacy__     | __[Bloom](https://bloomlibrary.org/browse?lang=en&langname=English)__   | __[Primer](https://www.literacyevangelism.org/primers)__    | Path    | Road    | __[Dash](https://bookdash.org/books/?s=&languages%5B%5D=en)__ 
+| __A__ | __Literacy__     | __[Bloom](https://bloomlibrary.org/browse?lang=en&langname=English)__   | __[Primer](https://www.literacyevangelism.org/resources/primers)__    | Path    | Road    | __[Dash](https://bookdash.org/books/?s=&languages%5B%5D=en)__ 
 | __B__ | __[Bibles](https://github.com/BibleCorps/Guidelines-and-Documentation-Wiki/blob/master/Bibles.md)__       | Volumes | Editions| NT Remix| OT Remix| 
 | __C__ | __[Christianity](https://github.com/Be-the-Light/ENG-C-Christianity-PSFM/tree/master/PDF)__ |         | Discover| New Life| Growing |
 | __D__ | __[Discipleship](https://github.com/Be-the-Light/ENG-D-Discipleship-PSFM/tree/master/PDF)__ |         | Maturing| Secret  | Fruit   | 
